@@ -68,7 +68,3 @@ def interface_utilisateur():
       break
     else:
       print("Option invalide. Veuillez sélectionner une option valide.")
-
-
-# Appel de la fonction pour lancer l'interface utilisateur
-interface_utilisateur()
